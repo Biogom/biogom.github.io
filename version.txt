@@ -1,1 +1,4 @@
-version: 1.2.0
+[
+  {"Title": "Check Me", "Version": 1.2, "Privated": false},
+  {"Title": "Not Me", "Version": 0.5, "Privated": false}
+]
