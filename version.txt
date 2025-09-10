@@ -1,4 +1,4 @@
 [
-  {"Title": "Check Me", "Version": 1.2, "Status": Privated},
-  {"Title": "Not Me", "Version": 0.5, "Status": Privated}
+  {"Title": "Check Me", "Version": 1.2, "Status": "Privated"},
+  {"Title": "Not Me", "Version": 0.5, "Status": "Privated"}
 ]
